@@ -290,3 +290,19 @@ Revisa la documentación
 Verifica los tests de ejemplo
 
 Revisa los issues existentes
+
+### instalacion
+
+puedes recurrir a la pagina oficial
+`https://pypi.org/project/medider/0.0.1/`
+tambien puedes instalarlo directamente a tu `bash`, `cmd`, `powershell` o etc.
+
+`pip instalar medider==0.0.1`
+tambien puedes recurrir a mi repositorio en `github`
+URL: `https://github.com/jhon-escobar/Pg2_parcial3`
+
+tambien puedes clonarlo con tus proyectos con:
+bash
+`git clone https://github.com/jhon-escobar/Pg2_parcial3.git`
+
+# Gracias.
