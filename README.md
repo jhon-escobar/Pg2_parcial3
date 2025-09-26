@@ -198,17 +198,19 @@ Verificar que la librería funciona
 
 ##### Datos Personales Válidos
 
-Campo Ejemplo Válido Ejemplo Inválido
-Edad `"25"`, `"0"`, `"120" "150"`, `"abc"`, `"-5"`
-Nombre `"Juan Pérez"`, `"María José"` `"Juan123"`, `"J"`
-Documento `"12345678A"`, `"AB123456" "123"`, `"12@45"`
+| Campo         | Ejemplo Válido                 | Ejemplo Inválido         |
+| ------------- | ------------------------------ | ------------------------ |
+| **Edad**      | `"25"`, `"0"`, `"120"`         | `"150"`, `"abc"`, `"-5"` |
+| **Nombre**    | `"Juan Pérez"`, `"María José"` | `"Juan123"`, `"J"`       |
+| **Documento** | `"12345678A"`, `"AB123456"`    | `"123"`, `"12@45"`       |
 
 #### Datos de Contacto Válidos
 
-Campo Ejemplo Válido Ejemplo Inválido
-Email "usuario@example.com" "usuario@", "@example.com"
-Celular "612345678", "+34612345678" "123", "abc"
-Dirección "Calle 123" (mínimo 10 chars) "Calle", "123"
+| Campo         | Ejemplo Válido                  | Ejemplo Inválido                |
+| ------------- | ------------------------------- | ------------------------------- |
+| **Email**     | `"usuario@example.com"`         | `"usuario@"`, `"@example.com"`  |
+| **Celular**   | `"612345678"`, `"+34612345678"` | `"123"`, `"abc"`                |
+| **Dirección** | `"Calle Principal 123"`         | `"Calle Sin Número"`, `"Corta"` |
 
 ## 🔧 Desarrollo
 
