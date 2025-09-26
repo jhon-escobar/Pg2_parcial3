@@ -1,4 +1,4 @@
-import re
+import re  # ← AÑADE ESTA LÍNEA
 
 class ValidadorBase:
     """
